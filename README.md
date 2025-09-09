@@ -26,7 +26,7 @@ The app allows users to browse food categories, select items, add them to a cart
 
 | Homepage | Cart Page |
 |----------|-----------|
-| ![Homepage Screenshot](./assets/homepage.png) | ![Cart Screenshot](./assets/cart.png) |
+| ![Homepage Screenshot](./Screenshots/homepage.png) | ![Cart Screenshot](./Screenshots/cart.png) |
 
 ---
 
